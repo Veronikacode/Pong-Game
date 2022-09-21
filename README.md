@@ -14,7 +14,7 @@ They can move the paddle on vertical sides from up to down and down to up.
 	To move paddle up press 'w'
 	To move paddle down press 's'
   
-### For Player B (on the right side):
+#### For Player B (on the right side):
 
   	To move paddle up press up arrow key
   	To move paddle down press down arrow key
