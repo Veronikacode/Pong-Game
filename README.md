@@ -16,8 +16,8 @@ They can move the paddle on vertical sides from up to down and down to up.
   
 ### For Player B (on the right side):
 
-  To move paddle up press up arrow key
-  To move paddle down press down arrow key
+  	To move paddle up press up arrow key
+  	To move paddle down press down arrow key
 
 ### Game Start Window
 
